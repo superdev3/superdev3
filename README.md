@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,typescript,python,cpp,c,java,windows,discord,bots,)](https://skillicons.dev)
 
 <!--
 **superdev3/superdev3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
